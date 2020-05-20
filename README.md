@@ -1,2 +1,2 @@
 # OtakuScripts
-My collection of TamperMonkey scripts for otaku's
+My collection of TamperMonkey scripts for otakus
