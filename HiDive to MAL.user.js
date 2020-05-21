@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         HiDive to MAL
+// @name         HiDive to MyAnimeList
 // @namespace    https://github.com/uptimeZERO/OtakuScripts
 // @version      0.1.1
 // @author       github.com/uptimeZERO
