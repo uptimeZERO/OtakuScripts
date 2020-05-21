@@ -6,7 +6,7 @@ You can download the latest release of each script from [here](https://github.co
 
 Ever been on MyAnimeList and seen a show you want to watch but no idea where you can legally stream it? Well look no further.
 
-Because.moe is a site that lets you find where you can legally stream a show, what this script does is
+Because.moe is a site that lets you find where you can legally stream a show, what this script does is give you an easy to click button to open because.moe/uk searching the name of the show you want to stream.
 
 ![](https://i.imgur.com/fp6lPMK.gif)
 
