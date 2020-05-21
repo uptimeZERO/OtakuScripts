@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# OtakuScripts
 
-You can use the [editor on GitHub](https://github.com/uptimeZERO/OtakuScripts/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can download the latest release of each script from [here](https://github.com/uptimeZERO/OtakuScripts/releases)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## MyAnimeList to Because.moe/uk
 
-### Markdown
+Ever been on MyAnimeList and seen a show you want to watch but no idea where you can legally stream it? Well look no further.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Because.moe is a site that lets you find where you can legally stream a show, what this script does is
 
-```markdown
-Syntax highlighted code block
+![](https://i.imgur.com/fp6lPMK.gif)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## FunimationNow to MyAnimeList
 
-1. Numbered
-2. List
+If you are on FunimationNow and want to quickly find the MAL entry to add it to your PTW or Watching list, this script adds a button to search for that anime making the process a lot quicker.
 
-**Bold** and _Italic_ and `Code` text
+![](https://i.imgur.com/TTY0cfd.png)
 
-[Link](url) and ![Image](src)
-```
+## HiDive to MyAnimeList
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+If you are on HiDive and want to quickly find the MAL entry to add it to your PTW or Watching list, this script adds a button to search for that anime making the process a lot quicker.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/uptimeZERO/OtakuScripts/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![](https://i.imgur.com/R2caDEl.png)
