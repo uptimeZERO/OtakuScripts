@@ -1,9 +1,8 @@
 // ==UserScript==
-// @name         HiDive to MAL
-// @namespace    http://tampermonkey.net/
-// @version      0.1
-// @description  try to take over the world!
-// @author       You
+// @name         HiDive to MyAnimeList
+// @namespace    https://github.com/uptimeZERO/OtakuScripts
+// @version      0.1.1
+// @author       github.com/uptimeZERO
 // @include      https://www.hidive.com/tv/*
 // @include      https://www.hidive.com/movies/*
 // @grant        none

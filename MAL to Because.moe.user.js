@@ -1,18 +1,12 @@
 // ==UserScript==
-// @name         MAL to Because.moe
-// @version      1
-// @description  To add a URL from MAL to Because.moe for easy legal viewing
-// @author        Pav
-// @include       http://www.myanimelist.net/anime/*
-// @include       https://www.myanimelist.net/anime/*
-// @include       http://*.www.myanimelist.net/anime/*
-// @include       https://*.www.myanimelist.net/anime/*
-// @include       http://*.myanimelist.net/anime/*
-// @include       http://myanimelist.net/anime/*
-// @include       https://*.myanimelist.net/anime/*
-// @include       https://myanimelist.net/anime/*
-// @run-at        document-start
-// @grant       none
+// @name         MyAnimeList to Because.moe
+// @namespace    https://github.com/uptimeZERO/OtakuScripts
+// @version      0.1.1
+// @author       github.com/uptimeZERO
+// @include      https://myanimelist.net/anime/*
+// @include      https://www.myanimelist.net/anime/*
+// @grant        none
+// @run-at       document-start
 // ==/UserScript==
 
 document.addEventListener('DOMContentLoaded', function() {
