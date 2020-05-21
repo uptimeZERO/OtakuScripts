@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Funimation link to MAL
 // @namespace    https://github.com/uptimeZERO/OtakuScripts
-// @version      0.1
+// @version      0.1.1
 // @author       github.com/uptimeZERO
 // @include      https://www.funimation.com/shows/*
 // @grant        none

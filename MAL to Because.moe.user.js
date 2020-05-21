@@ -1,12 +1,12 @@
 // ==UserScript==
-// @name         MAL to Because.moe
+// @name         MyAnimeList to Because.moe
 // @namespace    https://github.com/uptimeZERO/OtakuScripts
 // @version      0.1.1
-// @author        github.com/uptimeZERO
-// @include       https://myanimelist.net/anime/*
-// @include       https://www.myanimelist.net/anime/*
-// @grant       none
-// @run-at        document-start
+// @author       github.com/uptimeZERO
+// @include      https://myanimelist.net/anime/*
+// @include      https://www.myanimelist.net/anime/*
+// @grant        none
+// @run-at       document-start
 // ==/UserScript==
 
 document.addEventListener('DOMContentLoaded', function() {
