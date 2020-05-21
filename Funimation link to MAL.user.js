@@ -17,13 +17,13 @@ document.addEventListener('DOMContentLoaded', function() {
         let buttonParent = document.querySelector('div.show-detail-btn').parentElement;
         if (nameHeader != undefined) {
             let name = nameHeader.innerHTML;
-            malElement.innerHTML = '<a style="margin-top:5px;" class="btn" href="https://myanimelist.net/anime.php?q=' + name.replace('!', ' ').replace('?', ' ') + '" target="_blank">Funimation</a>';
+            malElement.innerHTML = '<a style="margin-top:5px;" class="btn" href="https://myanimelist.net/anime.php?q=' + name.replace('!', ' ').replace('?', ' ') + '" target="_blank">MyAnimeList</a>';
             buttonParent.appendChild(malElement);
         }
         let imgLogo = document.querySelector('img.show-detail-logo');
         if (imgLogo != undefined) {
             let name = imgLogo.title;
-            malElement.innerHTML = '<a style="margin-top:5px;" class="btn" href="https://myanimelist.net/anime.php?q=' + name.replace('!', ' ').replace('?', ' ') + '" target="_blank">Funimation</a>';
+            malElement.innerHTML = '<a style="margin-top:5px;" class="btn" href="https://myanimelist.net/anime.php?q=' + name.replace('!', ' ').replace('?', ' ') + '" target="_blank">MyAnimeList</a>';
             buttonParent.appendChild(malElement);
         }
     }
