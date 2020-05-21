@@ -15,7 +15,7 @@ Because.moe is a site that lets you find where you can legally stream a show, wh
 
 If you are on FunimationNow and want to quickly find the MyAnimeList entry to add it to your PTW or Watching list, this script adds a button to search for that anime making the process a lot quicker.
 
-![](https://i.imgur.com/TTY0cfd.png)
+![](https://i.imgur.com/3ragQgq.png)
 
 ## HiDive to MyAnimeList
 
