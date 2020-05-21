@@ -1,9 +1,8 @@
 // ==UserScript==
 // @name         Funimation link to MAL
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/uptimeZERO/OtakuScripts
 // @version      0.1
-// @description  try to take over the world!
-// @author       You
+// @author       github.com/uptimeZERO
 // @include      https://www.funimation.com/shows/*
 // @grant        none
 // @run-at       document-start
