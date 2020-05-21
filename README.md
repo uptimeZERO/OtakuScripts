@@ -13,12 +13,12 @@ Because.moe is a site that lets you find where you can legally stream a show, wh
 
 ## FunimationNow to MyAnimeList
 
-If you are on FunimationNow and want to quickly find the MAL entry to add it to your PTW or Watching list, this script adds a button to search for that anime making the process a lot quicker.
+If you are on FunimationNow and want to quickly find the MyAnimeList entry to add it to your PTW or Watching list, this script adds a button to search for that anime making the process a lot quicker.
 
 ![](https://i.imgur.com/TTY0cfd.png)
 
 ## HiDive to MyAnimeList
 
-If you are on HiDive and want to quickly find the MAL entry to add it to your PTW or Watching list, this script adds a button to search for that anime making the process a lot quicker.
+If you are on HiDive and want to quickly find the MyAnimeList entry to add it to your PTW or Watching list, this script adds a button to search for that anime making the process a lot quicker.
 
 ![](https://i.imgur.com/R2caDEl.png)
