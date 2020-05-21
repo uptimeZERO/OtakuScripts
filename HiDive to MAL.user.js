@@ -4,12 +4,14 @@
 // @version      0.1.1
 // @author       github.com/uptimeZERO
 // @include      https://www.hidive.com/tv/*
+// @include      https://www.hidive.com/movies/*
 // @grant        none
 // @run-at       document-start
 // ==/UserScript==
 
 document.addEventListener('DOMContentLoaded', function() {
-    if (window.location.href.includes('https://www.hidive.com/tv/')) {
+    if (window.location.href.includes('https://www.hidive.com/tv/') ||
+        window.location.href.includes('https://www.hidive.com/movies/')) {
         let malElement = document.createElement('a');
         let existingMalImg = document.querySelector('img[src="//d10xkldqejj5hr.cloudfront.net/logo/mal-logo-blue2.png"]');
         let animePage = document.querySelector('span[style="vertical-align:middle;"]').children[0].href;
