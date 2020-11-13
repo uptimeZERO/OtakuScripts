@@ -10,7 +10,6 @@ Because.moe is a site that lets you find where you can legally stream a show, wh
 
 ![](https://i.imgur.com/fp6lPMK.gif)
 
-
 ## FunimationNow to MyAnimeList
 
 If you are on FunimationNow and want to quickly find the MyAnimeList entry to add it to your PTW or Watching list, this script adds a button to search for that anime making the process a lot quicker.
